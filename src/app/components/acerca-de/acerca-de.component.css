@@ -1,0 +1,28 @@
+*{
+    color: aliceblue;
+}
+
+div{
+    background-color: #2E86C1;
+    text-align: center;
+}
+h1{
+    padding-top: 15px;
+}
+#nombre{
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 30%;
+}
+
+/* #imgPerfil{
+    border-radius: 50%;
+    width: 200px;
+    padding-top: -1500;
+} */
+
+/* Estilo foto de perfil */
+
+
+
+
