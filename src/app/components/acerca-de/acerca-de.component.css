@@ -10,13 +10,12 @@ div{
     text-align: center;
 }
 h1{
-    font-weight: bold;
+    color: #F5B041;
 }
 /* Mi nombre */
  #nombre{
     font-size: 1.5em;
     margin-top: 20px;
-    font-weight: bold;
 } 
 /* Estilo foto de perfil */
 @media (min-width: 576px){
@@ -24,7 +23,7 @@ h1{
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px #F5B041;
         left: 20px;
         top: 600px;
     }
@@ -34,7 +33,7 @@ h1{
         position: absolute;
         width: 30%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px grey;
+        box-shadow: 3px 3px 3px #F5B041;
         left: 200px;
         top: 570px;
     }  

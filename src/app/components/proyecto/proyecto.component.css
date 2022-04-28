@@ -5,8 +5,12 @@ div{
     background-color: #2E86C1;
     color: aliceblue;
 }
-h2, h3{
-    display: inline;
+.contenedor{
+    width: auto;
+}
+.parte1, parte2{
+    display: inline-block;
+    text-align: justify;
 }
 h1{
     color: #F5B041;

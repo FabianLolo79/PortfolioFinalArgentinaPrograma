@@ -5,9 +5,9 @@ div{
     background-color: #2E86C1;
     color: aliceblue;
 }
-h2, h3{
-    display: inline;
-}
-h1{
+p{
+    display: inline-block;
     color: #F5B041;
+    font-size: 14px;
+    
 }
