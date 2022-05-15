@@ -1,0 +1,21 @@
+#logoAP{
+    width: 150px;
+}
+
+/* Para la vista de celular */
+@media (max-width: 575px){
+  .logoAP{
+    flex-direction: column;
+    text-align: center;
+  }
+}
+
+
+
+/* img{
+  width: 40px;
+}
+.img-logo{
+  display: inline;
+} */
+

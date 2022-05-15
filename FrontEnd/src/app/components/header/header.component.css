@@ -13,3 +13,12 @@ app-social{
     color: aliceblue;
     margin: 120px;
 }
+
+/* @media (max-width: 575px){
+    .yoprogramo{
+      flex-direction: column;
+      text-align: center;
+    }
+  } */
+
+

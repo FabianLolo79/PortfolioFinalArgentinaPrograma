@@ -1,0 +1,19 @@
+
+img{
+    width: 40px;
+}
+/* quiero que al pasar por los íconos se cambiaen a naranja */
+/* a:hover{
+    color:#F5B041;
+} */
+
+/* falta renegar
+  @media (max-width: 575px){
+    .contenedor{
+      display: flex;  
+      flex-direction: column;
+      align-content: center;
+      
+
+    }
+  }  */
