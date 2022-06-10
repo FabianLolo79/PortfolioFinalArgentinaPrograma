@@ -15,6 +15,8 @@ import { SkillComponent } from './components/skill/skill.component';
 import { ProyectoComponent } from './components/proyecto/proyecto.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { HomeComponent } from './components/home/home.component';
+import { LoginComponent } from './components/login/login.component';
 
 @NgModule({
   declarations: [
@@ -29,6 +31,8 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';
     SkillComponent,
     ProyectoComponent,
     FooterComponent,
+    HomeComponent,
+    LoginComponent,
     
   ],
   imports: [
